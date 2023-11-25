@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Emon Chowdhury
 #### Web Developer 
 
-
-Hello! I am a dedicated and enthusiastic Junior Web Developer with a passion for creating impactful and user-friendly web experiences. I have a solid foundation in web development technologies such as HTML, CSS, and JavaScript, and I am eager to expand my skills and knowledge.
+Hello, I'm Emon Chowdhury, a seasoned Data Analyst with a passion for extracting insights from data using Python. My skills encompass a range of tools and techniques, including SQL, Numpy, Pandas, statistics, Data Visualization, and Machine Learning.
 
 Skills: JS / HTML / CSS/PYTHON/PHP
 
