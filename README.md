@@ -9,8 +9,8 @@ Hello, I'm Emon Chowdhury, a seasoned data analyst with a passion for extracting
 - 🤔 I’m looking for help with Data analysis  
 - 💬 Ask me about  Data Analyst 
 
-**Languages   :** Python, SQL
-**Libraries   :** Numpy, Pandas, Matplotlib, Seaborn
+**Languages   :** Python, SQL <br>
+**Libraries   :** Numpy, Pandas, Matplotlib, Seaborn <br>
 **Skills      :** Statistical Analysis, Machine Learning
 
  
